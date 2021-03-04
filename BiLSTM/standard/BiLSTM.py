@@ -66,4 +66,3 @@ class BiLSTM(nn.Module):
 		pred = self.fc(out)# pred: [batch_size, num_classes]
 		return pred
 
-	
