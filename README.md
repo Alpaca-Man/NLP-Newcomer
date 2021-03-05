@@ -167,7 +167,7 @@ Mathematical operations, various mathematical operations in Transformer are impl
 
 ​	The annotation and variable naming style will vary with the author’s learning process. The early variable naming style adopts the `function_attribute` format (such as _batch_size_, _emb_size_), and the later naming style is the little camel case (such as _batchSize_, _embSize_)
 
- 	Github has different treatments for `Tab` indentation, the author does not know how to deal with it, so the code displayed on the official website will be a little problematic.
+​	Github has different treatments for `Tab` indentation, the author does not know how to deal with it, so the code displayed on the official website will be a little problematic.
 
 ​	The absolute path is used in the `DataProcessor.py` file in `demo`, and the user only needs to change the global variable _fileName_ after downloading.
 
